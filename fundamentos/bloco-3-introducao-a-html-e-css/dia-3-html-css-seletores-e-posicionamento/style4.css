@@ -1,0 +1,18 @@
+fi:hover, div {
+background-color: blue;
+}
+dev {
+    background-color: bisque;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+.aumentar{
+    heigth: 200px
+}
+
+h3 {
+    font-style: italic;
+}
